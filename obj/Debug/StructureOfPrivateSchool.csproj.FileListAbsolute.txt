@@ -1,0 +1,29 @@
+C:\Users\chris\source\repos\StructureOfPrivateSchool\StructureOfPrivateSchool\bin\Debug\StructureOfPrivateSchool.exe
+C:\Users\chris\source\repos\StructureOfPrivateSchool\StructureOfPrivateSchool\bin\Debug\StructureOfPrivateSchool.exe.config
+C:\Users\chris\source\repos\StructureOfPrivateSchool\StructureOfPrivateSchool\obj\Debug\StructureOfPrivateSchool.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\StructureOfPrivateSchool\StructureOfPrivateSchool\obj\Debug\StructureOfPrivateSchool.exe
+C:\Users\chris\source\repos\StructureOfPrivateSchool\StructureOfPrivateSchool\obj\Debug\StructureOfPrivateSchool.pdb
+C:\Users\chris\source\repos\StructureOfPrivateSchool\StructureOfPrivateSchool\bin\Debug\StructureOfPrivateSchool.pdb
+C:\Users\chris\source\repos\StructureOfPrivateSchool\StructureOfPrivateSchool\obj\Debug\StructureOfPrivateSchool.csproj.AssemblyReference.cache
+C:\Users\Babis\Desktop\StructureOfPrivateSchool\StructureOfPrivateSchool\bin\Debug\StructureOfPrivateSchool.exe.config
+C:\Users\Babis\Desktop\StructureOfPrivateSchool\StructureOfPrivateSchool\bin\Debug\StructureOfPrivateSchool.exe
+C:\Users\Babis\Desktop\StructureOfPrivateSchool\StructureOfPrivateSchool\bin\Debug\StructureOfPrivateSchool.pdb
+C:\Users\Babis\Desktop\StructureOfPrivateSchool\StructureOfPrivateSchool\obj\Debug\StructureOfPrivateSchool.csprojAssemblyReference.cache
+C:\Users\Babis\Desktop\StructureOfPrivateSchool\StructureOfPrivateSchool\obj\Debug\StructureOfPrivateSchool.csproj.CoreCompileInputs.cache
+C:\Users\Babis\Desktop\StructureOfPrivateSchool\StructureOfPrivateSchool\obj\Debug\StructureOfPrivateSchool.exe
+C:\Users\Babis\Desktop\StructureOfPrivateSchool\StructureOfPrivateSchool\obj\Debug\StructureOfPrivateSchool.pdb
+C:\Users\chris\Downloads\StructureOfPrivateSchool\StructureOfPrivateSchool\bin\Debug\StructureOfPrivateSchool.exe.config
+C:\Users\chris\Downloads\StructureOfPrivateSchool\StructureOfPrivateSchool\bin\Debug\StructureOfPrivateSchool.exe
+C:\Users\chris\Downloads\StructureOfPrivateSchool\StructureOfPrivateSchool\bin\Debug\StructureOfPrivateSchool.pdb
+C:\Users\chris\Downloads\StructureOfPrivateSchool\StructureOfPrivateSchool\obj\Debug\StructureOfPrivateSchool.csproj.AssemblyReference.cache
+C:\Users\chris\Downloads\StructureOfPrivateSchool\StructureOfPrivateSchool\obj\Debug\StructureOfPrivateSchool.csproj.CoreCompileInputs.cache
+C:\Users\chris\Downloads\StructureOfPrivateSchool\StructureOfPrivateSchool\obj\Debug\StructureOfPrivateSchool.exe
+C:\Users\chris\Downloads\StructureOfPrivateSchool\StructureOfPrivateSchool\obj\Debug\StructureOfPrivateSchool.pdb
+C:\Users\chris\OneDrive\Υπολογιστής\Assignments\Assignment 2\StructureOfPrivateSchool\bin\Debug\StructureOfPrivateSchool.exe.config
+C:\Users\chris\OneDrive\Υπολογιστής\Assignments\Assignment 2\StructureOfPrivateSchool\bin\Debug\StructureOfPrivateSchool.exe
+C:\Users\chris\OneDrive\Υπολογιστής\Assignments\Assignment 2\StructureOfPrivateSchool\bin\Debug\StructureOfPrivateSchool.pdb
+C:\Users\chris\OneDrive\Υπολογιστής\Assignments\Assignment 2\StructureOfPrivateSchool\obj\Debug\StructureOfPrivateSchool.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Υπολογιστής\Assignments\Assignment 2\StructureOfPrivateSchool\obj\Debug\StructureOfPrivateSchool.csproj.SuggestedBindingRedirects.cache
+C:\Users\chris\OneDrive\Υπολογιστής\Assignments\Assignment 2\StructureOfPrivateSchool\obj\Debug\StructureOfPrivateSchool.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Υπολογιστής\Assignments\Assignment 2\StructureOfPrivateSchool\obj\Debug\StructureOfPrivateSchool.exe
+C:\Users\chris\OneDrive\Υπολογιστής\Assignments\Assignment 2\StructureOfPrivateSchool\obj\Debug\StructureOfPrivateSchool.pdb
